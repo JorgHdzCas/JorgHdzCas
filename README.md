@@ -1,7 +1,8 @@
 <div align="center">
     <h1 align ="center">Hola soy Jorge Hernandez</h1>
 </div>
-## Sobre Mi
+
+## Sobre mi
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
