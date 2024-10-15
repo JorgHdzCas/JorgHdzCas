@@ -3,7 +3,10 @@
 </div>
 
 ## About me
-I'm a Software Eingeenieer
+<p align="center">
+I'm a Software Eingeenieer    
+</p>
+
 
 ## My Skills
 ### Programming languages
