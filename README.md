@@ -16,9 +16,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h2>***About Me***</h2>
-
-
 <div align="left">
     <h2>About Me</h2>
     <p>Soy un ingeniero de software, estuciasta por estar aprendiedo de manera autodidacta</p>
