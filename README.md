@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-
+I'm a Software Eingeenieer 
 ### Lenguajes
 <p align="center">
   <a href="https://skillicons.dev">
