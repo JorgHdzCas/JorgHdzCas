@@ -21,11 +21,6 @@
     <ul>
         <li> Software Eingeenier | Web Developer | Data Analyst </li>
     </ul>
-  Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
 </div>
 
 ## My skills include
