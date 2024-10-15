@@ -1,13 +1,13 @@
 <div align="center">
     <h1 align ="center">Hello, i'm Jorge Hernandez </h1>
-
 </div>
 
-## About me
-<p align="center">
-I'm a Software Eingeenieer    
-</p>
-
+<div align="left">
+    <h2>About Me</h2>
+    <ul>
+        <li> Software Eingeenier | Web Developer | Data Analyst </li>
+    </ul>
+</div>
 
 ## My skills include
 ### Programming languages
