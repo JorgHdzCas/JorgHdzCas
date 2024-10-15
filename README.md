@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 align ="center">Hello, i'm Jorge Hernandez</h1>
-    <h3> Software Eingeenier | Web Developer | Data Analyst</h3>
+    <h1 align ="center">Hello, i'm Jorge Hernandez <br>Software Eingeenier | Web Developer | Data Analyst</h1>
+
 </div>
 
 ## About me
