@@ -5,11 +5,10 @@
 
 I am a computer engineering student.
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
+  - React
+  - Python
 - ✔ Ask me about anything, I am happy to help<br>
 - 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="jorghdz.cas@gmail.com">jorghdz.cas@gmail.com</a>
 
 ## My Skills Include
