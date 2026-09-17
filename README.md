@@ -1,67 +1,103 @@
 <div align="center">
 
-<!-- Banner animado con el nombre -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=¡Hola,%20soy%20Jorge!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20en%20formación%20·%20Durango,%20México&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Aprendiendo+a+programar+todos+los+d%C3%ADas;Construyendo+proyectos+con+HTML%2C+CSS+%26+JS;Explorando+el+mundo+del+desarrollo+de+software;¡Bienvenido%2Fa+a+mi+perfil!" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f1a,100:1a1a2e&height=180&section=header&text=JORGE%20HERNÁNDEZ&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Desarrollador%20en%20formación%20·%20Frontend%20·%20Open%20Source&descAlignY=65&descSize=16&descColor=a78bfa" width="100%"/>
 
 </div>
 
-<br>
+### 🔗 &nbsp;About Me
 
-## 👋 Sobre mí
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🌱 Actualmente estoy **aprendiendo a programar** y construyendo mis primeros proyectos
-- 💻 Enfocado en **desarrollo web** — HTML, CSS y JavaScript
-- 📍 Ubicado en **Durango, México**
-- 🎯 Meta actual: fortalecer mis fundamentos y empezar a construir proyectos propios
-- 📫 Puedes encontrarme en LinkedIn (link abajo) o revisar lo que voy subiendo aquí
+```js
+const jorge = {
+  role: "Estudiante de Desarrollo Web",
+  location: "Durango, México 🇲🇽",
 
-<br>
+  learning: [
+    "HTML & CSS",
+    "JavaScript",
+    "Git & GitHub",
+  ],
 
-## 🛠️ Tecnologías
+  goals: [
+    "Construir proyectos reales",
+    "Contribuir a Open Source",
+    "Dominar el stack frontend",
+  ],
+
+  funFact: "Aprendo mejor construyendo que leyendo docs",
+};
+```
+
+> *"El código que no se practica, se olvida."*
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 🔗 &nbsp;🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorghdz-cas/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgHdzCas)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 
 </div>
 
-<br>
-
-## 📊 Estadísticas de GitHub
+### 🔗 &nbsp;🛠️ Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgHdzCas&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgHdzCas&layout=compact&hide_border=true&theme=default" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgHdzCas&hide_border=true&theme=default" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<br>
-
-## 🌐 Conecta conmigo
+### 🔗 &nbsp;📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorghdz-cas/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgHdzCas)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JorgHdzCas&theme=dracula&hide_border=true&area=true" width="100%"/>
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgHdzCas&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgHdzCas&layout=compact&theme=dracula&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgHdzCas&theme=dracula&hide_border=true" />
 
 </div>
 
-<br>
+### 🔗 &nbsp;🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JorgHdzCas&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
 
-<sub>⭐ Gracias por visitar mi perfil — ¡vuelve pronto para ver nuevos proyectos!</sub>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f1a&height=80&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=JorgHdzCas&style=for-the-badge&color=a78bfa" />
 
 </div>
