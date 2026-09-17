@@ -12,7 +12,7 @@
 
 ```js
 const jorge = {
-  role: "Estudiante de Desarrollo Web",
+  role: "Ingeniero en Sistemas Computacionales",
   location: "Durango, México 🇲🇽",
 
   learning: [
