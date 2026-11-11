@@ -8,11 +8,11 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://jorghdz.dev">Explorar mi portafolio ↗</a> · <a href="#featured-projects">Proyectos</a> · <a href="#connect">Contacto</a></p>
+<p align="center"><a href="https://jorghrndz.dev">Explorar mi portafolio ↗</a> · <a href="#featured-projects">Proyectos</a> · <a href="#connect">Contacto</a></p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero.svg" width="1000" alt="Jorge Hernández, Full Stack Developer en Durango, México. Enfoque en web, datos y automatización. Retrato ASCII creado a partir de su foto pública de GitHub.">
+  <img src="./assets/hero.svg" width="1000" alt="Jorge Hernández, Full Stack Developer en Durango, México. Enfoque en web, datos y automatización. Retrato ASCII pendiente de fotografía.">
 </picture>
 
 ## who am i
@@ -48,11 +48,20 @@ Herramientas con las que trabajo o que estoy fortaleciendo mediante proyectos; n
 </td></tr>
 </table>
 
+<table>
+<tr><td>
+<h3>03 / Social links</h3>
+<p>Página personal de enlaces con categorías y un fondo espacial animado.</p>
+<p><sub>React · Vite · CSS · React Icons</sub></p>
+<p>Demo: <code>[DEMO_LINKS]</code> · Repositorio: <code>[REPO_3]</code></p>
+</td></tr>
+</table>
+
 ## GitHub analytics
 
-<img src="./assets/analytics.svg" width="1000" alt="Resumen público de GitHub de JorgHdzCas: repositorios, seguidores y gists.">
+<img src="./assets/analytics.svg" width="1000" alt="Resumen de actividad pública de GitHub; pendiente de configurar el usuario.">
 
-<sub>Snapshot local de repositorios públicos, seguidores y gists. Actualizado con los datos públicos de JorgHdzCas; fecha indicada en la imagen. Estas cifras no miden habilidad ni incluyen trabajo privado.</sub>
+<sub>Snapshot local de repositorios públicos, seguidores y gists. Se actualizará al configurar el usuario. Estas cifras no miden habilidad ni incluyen trabajo privado.</sub>
 
 ## Connect
 
@@ -62,8 +71,8 @@ Abierto a oportunidades profesionales, colaboraciones y proyectos freelance.
 | :--- | :--- |
 | ↗ Portfolio | [jorghrndz.dev](https://jorghdz.dev) |
 | ⌘ GitHub | [JorgHdzCas](https://github.com/JorgHdzCas) |
-| ↗ LinkedIn | [Jorge Hernández](https://www.linkedin.com/in/jorghdz-cas/) |
-| ✉ Email | `jorghdz.cas@gmail.com` |
+| ↗ LinkedIn | [Jorge Hernández Castro](https://www.linkedin.com/in/jorghdz-cas/) |
+| ✉ Email | [](jorghdz.cas@gmail.com) |
 
 <!-- Reemplaza los marcadores por enlaces reales antes de publicar. -->
 
