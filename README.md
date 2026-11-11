@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://jorghrndz.dev">Explorar mi portafolio ↗</a> · <a href="#featured-projects">Proyectos</a> · <a href="#connect">Contacto</a></p>
+<p align="center"><a href="https://jorghdz.dev">Explorar mi portafolio ↗</a> · <a href="#featured-projects">Proyectos</a> · <a href="#connect">Contacto</a></p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
