@@ -3,7 +3,7 @@
   <img src="./assets/neofetch.svg" width="1000" alt="Jorge Hernández, Full Stack Developer de Durango, México. Retrato ASCII y perfil estilo Neofetch. Desarrollo web, datos y automatización.">
 </picture>
 
-`~/links` &nbsp; [Portfolio](https://jorghdz.dev) · [GitHub](https://github.com/JorgHdzCas) · [LinkedIn](https://www.linkedin.com/in/jorghdz-cas/)
+`~/links` &nbsp; [Portfolio](https://jorghrndz.dev) · [GitHub](https://github.com/JorgHdzCas) · [LinkedIn](https://www.linkedin.com/in/jorghdz-cas/)
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/projects-mobile.svg">
@@ -40,6 +40,6 @@ Los enlaces públicos disponibles están arriba. Los repositorios de la clínica
 
 `~/contact` &nbsp; Abierto a oportunidades profesionales, colaboraciones y proyectos freelance.
 
-[Conectemos en LinkedIn ↗](https://www.linkedin.com/in/jorghdz-cas/) · [Visita mi portafolio ↗](https://jorghdz.dev)
+[Conectemos en LinkedIn ↗](https://www.linkedin.com/in/jorghdz-cas/) · [Visita mi portafolio ↗](https://jorghrndz.dev)
 
 <sub>Jorge Hernández · Build. Learn. Improve.</sub>
