@@ -60,7 +60,7 @@ Abierto a oportunidades profesionales, colaboraciones y proyectos freelance.
 
 | Canal | Encuéntrame |
 | :--- | :--- |
-| ↗ Portfolio | [jorghrndz.dev](https://jorghrndz.dev) |
+| ↗ Portfolio | [jorghrndz.dev](https://jorghdz.dev) |
 | ⌘ GitHub | [JorgHdzCas](https://github.com/JorgHdzCas) |
 | ↗ LinkedIn | [Jorge Hernández](https://www.linkedin.com/in/jorghdz-cas/) |
 | ✉ Email | `jorghdz.cas@gmail.com` |
