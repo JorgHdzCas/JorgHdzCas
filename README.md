@@ -44,7 +44,7 @@ Herramientas con las que trabajo o que estoy fortaleciendo mediante proyectos; n
 <h3>01 / Personal portfolio</h3>
 <p>Mi espacio para presentar proyectos, habilidades y formas de contacto.</p>
 <p><sub>React · Vite · TypeScript</sub></p>
-<p><a href="https://jorghrndz.dev">Ver sitio ↗</a> · Repositorio: <code>[REPO_1]</code></p>
+<p><a href="https://jorghdz.dev">Ver sitio ↗</a> · Repositorio: <code>[REPO_1]</code></p>
 </td></tr>
 </table>
 
