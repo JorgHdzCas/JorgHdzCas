@@ -1,4 +1,4 @@
-name: Refresh profile snapshot
+name: Refresh Neofetch profile
 on:
   workflow_dispatch:
 permissions:
@@ -8,17 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate snapshot
+      - name: Update public data and local cards
         env:
           GH_TOKEN: ${{ github.token }}
-          PROFILE_USER: ${{ github.repository_owner }}
-        run: python3 scripts/update_stats.py "$PROFILE_USER"
-      - name: Commit changed snapshot
+        run: python3 scripts/update.py
+      - name: Commit updated cards
         run: |
-          if ! git diff --quiet -- assets/analytics.svg; then
+          if ! git diff --quiet -- profile.json assets; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add assets/analytics.svg
-            git commit -m 'Refresh public profile snapshot'
+            git add profile.json assets
+            git commit -m 'Refresh Neofetch profile'
             git push
           fi
