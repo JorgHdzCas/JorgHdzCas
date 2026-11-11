@@ -1,0 +1,24 @@
+name: Refresh profile snapshot
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/update_stats.py "$PROFILE_USER"
+      - name: Commit changed snapshot
+        run: |
+          if ! git diff --quiet -- assets/analytics.svg; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add assets/analytics.svg
+            git commit -m 'Refresh public profile snapshot'
+            git push
+          fi
